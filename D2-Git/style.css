@@ -5,3 +5,8 @@ header .title {
 main ul li {
   background: yellow;
 }
+
+main ul li {
+  background: aquamarine;
+  list-style: square;
+}
